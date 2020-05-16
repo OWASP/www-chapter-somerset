@@ -15,7 +15,7 @@ The Somerset Chapter was opened just prior to the onset of the COVID-19 Pandemic
 
 ## Participation
 
-Please join us on Meetup! We look forward to growing a healthy, inclusive community.
+Please join us on [Meetup](https://www.meetup.com/OWASP-Somerset-Chapter/)! We look forward to growing a healthy, inclusive community.
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security.
 

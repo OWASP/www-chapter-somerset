@@ -1,2 +1,3 @@
 ### Leaders
-* [Doyle Turner](mailto:doyle.turner@owasp.org)
+
+* Chapter Lead: [Doyle Turner](mailto:doyle.turner@owasp.org)

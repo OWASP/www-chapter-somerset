@@ -6,6 +6,12 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+### Upcoming
+
+- Online Meet and Greet
+  - When: Friday, May 22 @7pm-8pm
+  - [Meetup](https://www.meetup.com/OWASP-Somerset-Chapter/events/270685520/)
+
+### Past
