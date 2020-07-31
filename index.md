@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Somerset
 tags: example-tag
 region: 
+meetup-group: OWASP-Somerset-Chapter
+country: USA
+postal-code: 42501
 
 ---
 
