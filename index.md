@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Somerset
-tags: 
+tags: events
 region: 
 meetup-group: OWASP-Somerset-Chapter
 country: USA
