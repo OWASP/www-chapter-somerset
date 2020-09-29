@@ -10,7 +10,7 @@ tags: events
 
 ### Upcoming
 
-- Exploring OWASP Zed Attack Proxy (ZAP)
+- Exploring OWASP Zed Attack Proxy (ZAP) [Online Only]
   - When: Friday, October 30 @7pm-8pm
   - [Meetup](https://www.meetup.com/OWASP-Somerset-Chapter/events/273592981/)
 
