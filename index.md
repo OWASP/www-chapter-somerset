@@ -5,6 +5,7 @@ title: OWASP® Somerset
 tags: OWASPSomerset, OWASPKY
 region: North America
 country: United States
+postal-code: 42501
 meetup-group:
 
 ---
