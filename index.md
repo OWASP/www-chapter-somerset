@@ -1,8 +1,8 @@
 ---
 
 layout: col-sidebar
-title: OWASP® Somerset
-tags: Somerset
+title: OWASP Somerset
+tags: OWASPSomerset
 region: North America
 country: United States
 postal-code: 42501
