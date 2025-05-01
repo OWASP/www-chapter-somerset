@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Somerset
 tags: Somerset
 region: North America
-country: United States
+country: USA
 postal-code: 42501
 meetup-group:
 
